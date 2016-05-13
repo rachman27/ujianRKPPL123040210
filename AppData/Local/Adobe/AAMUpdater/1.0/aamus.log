@@ -1,0 +1,509 @@
+turning from << UCCheckForUpdates >> call with outErr value -  = 0
+2016-04-17T04:46:55: CFU(Webfeed):: Web feed hasn't changed since last time.
+2016-04-17T04:46:55: CFU(Webfeed): Webfeed is empty
+2016-04-17T04:46:55: CFU(Webfeed): MRL is empty
+2016-04-17T04:46:55: Check for Updates was done successfully.
+2016-04-17T04:46:55: UCGetprogress : Check for updates returning state for reffId  = 
+2016-04-17T04:46:55: UCGetprogress : Check for updates returning state     = 21
+2016-04-17T04:46:55: UCGetprogress : Check for updates returning outError  = 0
+2016-04-17T04:46:55: UCGetprogress : Check for updates returning percent   = 100
+2016-04-17T04:46:55: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2016-04-17T04:46:56: Returning from << UCTerminate >> call with value = 1
+2016-04-17T04:46:56: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2016-04-17T04:46:56: <<< Adobe Updater Log End <<<
+
+
+2016-04-17T04:46:57: >>> Adobe Updater Log Begin >>>
+2016-04-17T04:46:57: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-17T04:46:57: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-17T04:46:57: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-17T04:46:57: UCInitialize : AAMLauncher was NOT running.
+2016-04-17T04:46:57: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-18T00:28:36: >>> Adobe Updater Log Begin >>>
+2016-04-18T00:28:36: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-18T00:28:36: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-18T00:28:36: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-18T00:28:36: UCInitialize : AAMLauncher was NOT running.
+2016-04-18T00:28:36: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-18T00:28:36: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2016-04-18T00:28:36: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2016-04-18T00:28:36: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:40: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:40: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:41: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:41: CFU(Webfeed): Query licensing type for LEID  = FlashPro-CS6-Win-GM
+2016-04-18T00:28:42: No valid license found for  = FlashPro-CS6-Win-GM
+2016-04-18T00:28:42: CFU(Webfeed): Query licensing type for LEID  = Audition-CS6-Win-GM
+2016-04-18T00:28:43: A valid perpetual license found for  = Audition-CS6-Win-GM
+2016-04-18T00:28:43: CFU(Webfeed): Query licensing type for LEID  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-18T00:28:44: No valid license found for  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-18T00:28:44: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-18T00:28:45: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-18T00:28:45: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:46: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:46: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-18T00:28:46: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-18T00:28:46: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:46: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:46: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-18T00:28:46: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-18T00:28:46: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:46: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:46: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-18T00:28:46: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-18T00:28:46: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:47: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-18T00:28:47: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-18T00:28:47: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-18T00:28:47: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-18T00:28:47: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-18T00:28:47: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-18T00:28:48: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-18T00:28:48: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-18T00:28:48: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-18T00:28:48: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-18T00:28:48: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-18T00:28:49: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-18T00:28:49: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-18T00:28:49: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-18T00:28:49: CFU(Webfeed): Query licensing type for LEID  = PremiereProApp-CS6-Win-GM
+2016-04-18T00:28:50: No valid license found for  = PremiereProApp-CS6-Win-GM
+2016-04-18T00:28:50: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-18T00:28:50: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-18T00:28:50: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-18T00:28:50: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-18T00:28:50: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-18T00:28:50: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2016-04-18T00:28:51: No valid license found for  = ExMan-CS6-Win-GM
+2016-04-18T00:28:51: CFU(Webfeed): Query licensing type for LEID  = AfterEffects-CS6-Win-GM
+2016-04-18T00:28:52: No valid license found for  = AfterEffects-CS6-Win-GM
+2016-04-18T00:28:52: CFU(Webfeed): Query licensing type for LEID  = Camera_Raw-7-Win-GM
+2016-04-18T00:28:53: No valid license found for  = Camera_Raw-7-Win-GM
+2016-04-18T00:28:54: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2016-04-18T00:28:55: CFU(Webfeed):: Web feed hasn't changed since last time.
+2016-04-18T00:28:55: CFU(Webfeed): Webfeed is empty
+2016-04-18T00:28:55: CFU(Webfeed): MRL is empty
+2016-04-18T00:28:55: Check for Updates was done successfully.
+2016-04-18T00:28:55: UCGetprogress : Check for updates returning state for reffId  = 
+2016-04-18T00:28:55: UCGetprogress : Check for updates returning state     = 21
+2016-04-18T00:28:55: UCGetprogress : Check for updates returning outError  = 0
+2016-04-18T00:28:55: UCGetprogress : Check for updates returning percent   = 100
+2016-04-18T00:28:55: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2016-04-18T00:28:55: Returning from << UCTerminate >> call with value = 1
+2016-04-18T00:28:55: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2016-04-18T00:28:55: <<< Adobe Updater Log End <<<
+
+
+2016-04-18T00:28:56: >>> Adobe Updater Log Begin >>>
+2016-04-18T00:28:56: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-18T00:28:56: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-18T00:28:56: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-18T00:28:56: UCInitialize : AAMLauncher was NOT running.
+2016-04-18T00:28:56: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-19T00:19:14: >>> Adobe Updater Log Begin >>>
+2016-04-19T00:19:14: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-19T00:19:14: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-19T00:19:14: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-19T00:19:14: UCInitialize : AAMLauncher was NOT running.
+2016-04-19T00:19:14: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-19T00:19:14: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2016-04-19T00:19:14: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2016-04-19T00:19:14: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:15: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:16: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:16: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:16: CFU(Webfeed): Query licensing type for LEID  = FlashPro-CS6-Win-GM
+2016-04-19T00:19:17: No valid license found for  = FlashPro-CS6-Win-GM
+2016-04-19T00:19:17: CFU(Webfeed): Query licensing type for LEID  = Audition-CS6-Win-GM
+2016-04-19T00:19:17: A valid perpetual license found for  = Audition-CS6-Win-GM
+2016-04-19T00:19:17: CFU(Webfeed): Query licensing type for LEID  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-19T00:19:18: No valid license found for  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-19T00:19:18: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-19T00:19:18: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-19T00:19:18: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:19: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:19: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-19T00:19:19: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-19T00:19:19: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:19: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:19: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-19T00:19:19: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-19T00:19:19: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:20: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:20: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-19T00:19:20: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-19T00:19:20: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:20: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-19T00:19:20: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-19T00:19:20: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-19T00:19:20: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-19T00:19:21: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-19T00:19:21: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-19T00:19:21: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-19T00:19:21: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-19T00:19:22: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-19T00:19:22: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-19T00:19:22: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-19T00:19:22: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-19T00:19:22: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-19T00:19:22: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-19T00:19:22: CFU(Webfeed): Query licensing type for LEID  = PremiereProApp-CS6-Win-GM
+2016-04-19T00:19:23: No valid license found for  = PremiereProApp-CS6-Win-GM
+2016-04-19T00:19:23: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-19T00:19:23: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-19T00:19:23: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-19T00:19:23: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-19T00:19:23: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-19T00:19:23: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2016-04-19T00:19:24: No valid license found for  = ExMan-CS6-Win-GM
+2016-04-19T00:19:24: CFU(Webfeed): Query licensing type for LEID  = AfterEffects-CS6-Win-GM
+2016-04-19T00:19:24: No valid license found for  = AfterEffects-CS6-Win-GM
+2016-04-19T00:19:24: CFU(Webfeed): Query licensing type for LEID  = Camera_Raw-7-Win-GM
+2016-04-19T00:19:25: No valid license found for  = Camera_Raw-7-Win-GM
+2016-04-19T00:19:25: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2016-04-19T00:19:27: CFU(Webfeed): Web feed has increased, Going for incremental feed download
+2016-04-19T00:19:28: Revoking update:  = REVOKE/ALL/AdobeFrameMaker13-13/13.0.3
+2016-04-19T00:19:28: Check for Updates was done successfully.
+2016-04-19T00:19:28: UCGetprogress : Check for updates returning state for reffId  = 
+2016-04-19T00:19:28: UCGetprogress : Check for updates returning state     = 21
+2016-04-19T00:19:28: UCGetprogress : Check for updates returning outError  = 0
+2016-04-19T00:19:28: UCGetprogress : Check for updates returning percent   = 100
+2016-04-19T00:19:28: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2016-04-19T00:19:28: Returning from << UCTerminate >> call with value = 1
+2016-04-19T00:19:28: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2016-04-19T00:19:28: <<< Adobe Updater Log End <<<
+
+
+2016-04-19T00:19:29: >>> Adobe Updater Log Begin >>>
+2016-04-19T00:19:29: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-19T00:19:29: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-19T00:19:29: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-19T00:19:29: UCInitialize : AAMLauncher was NOT running.
+2016-04-19T00:19:29: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-20T00:04:52: >>> Adobe Updater Log Begin >>>
+2016-04-20T00:04:52: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-20T00:04:52: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-20T00:04:52: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-20T00:04:59: UCInitialize : AAMLauncher was NOT running.
+2016-04-20T00:05:13: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-20T00:05:14: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2016-04-20T00:05:14: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2016-04-20T00:05:16: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T00:07:47: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T00:07:48: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T00:07:52: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T00:07:52: CFU(Webfeed): Query licensing type for LEID  = FlashPro-CS6-Win-GM
+2016-04-20T00:07:56: No valid license found for  = FlashPro-CS6-Win-GM
+2016-04-20T00:07:57: CFU(Webfeed): Query licensing type for LEID  = Audition-CS6-Win-GM
+2016-04-20T00:09:07: A valid perpetual license found for  = Audition-CS6-Win-GM
+2016-04-20T00:09:26: CFU(Webfeed): Query licensing type for LEID  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-20T00:10:08: No valid license found for  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-20T00:10:10: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-20T00:10:16: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-20T00:10:16: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T00:10:41: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T00:10:41: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T00:10:41: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T00:10:41: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T00:10:51: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T00:10:51: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T00:10:51: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T00:10:51: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T00:11:01: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T00:11:01: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-20T00:11:01: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T00:11:01: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T00:11:14: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T00:11:14: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-20T00:11:14: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T00:11:16: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-20T00:11:40: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-20T00:11:40: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-20T00:11:41: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-20T00:11:42: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-20T00:11:42: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-20T00:11:42: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-20T00:11:42: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-20T00:11:44: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-20T00:11:44: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-20T00:11:44: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T00:11:44: CFU(Webfeed): Query licensing type for LEID  = PremiereProApp-CS6-Win-GM
+2016-04-20T00:11:44: No valid license found for  = PremiereProApp-CS6-Win-GM
+2016-04-20T00:11:44: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T00:11:44: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T00:11:44: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T00:11:44: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-20T00:11:45: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-20T00:11:45: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2016-04-20T00:11:46: No valid license found for  = ExMan-CS6-Win-GM
+2016-04-20T00:11:46: CFU(Webfeed): Query licensing type for LEID  = AfterEffects-CS6-Win-GM
+2016-04-20T00:11:47: No valid license found for  = AfterEffects-CS6-Win-GM
+2016-04-20T00:11:47: CFU(Webfeed): Query licensing type for LEID  = Camera_Raw-7-Win-GM
+2016-04-20T00:11:48: No valid license found for  = Camera_Raw-7-Win-GM
+2016-04-20T00:11:49: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2016-04-20T00:11:55: CFU(Webfeed):: Web feed hasn't changed since last time.
+2016-04-20T00:11:55: CFU(Webfeed): Webfeed is empty
+2016-04-20T00:11:55: CFU(Webfeed): MRL is empty
+2016-04-20T00:11:55: Check for Updates was done successfully.
+2016-04-20T00:11:55: UCGetprogress : Check for updates returning state for reffId  = 
+2016-04-20T00:11:55: UCGetprogress : Check for updates returning state     = 21
+2016-04-20T00:11:55: UCGetprogress : Check for updates returning outError  = 0
+2016-04-20T00:11:55: UCGetprogress : Check for updates returning percent   = 100
+2016-04-20T00:11:55: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2016-04-20T00:11:55: Returning from << UCTerminate >> call with value = 1
+2016-04-20T00:11:55: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2016-04-20T00:11:55: <<< Adobe Updater Log End <<<
+
+
+2016-04-20T00:11:58: >>> Adobe Updater Log Begin >>>
+2016-04-20T00:11:58: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-20T00:11:58: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-20T00:11:58: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-20T00:11:58: UCInitialize : AAMLauncher was NOT running.
+2016-04-20T00:11:58: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-20T19:00:01: >>> Adobe Updater Log Begin >>>
+2016-04-20T19:00:01: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-20T19:00:01: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-20T19:00:01: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-20T19:00:01: UCInitialize : AAMLauncher was NOT running.
+2016-04-20T19:00:01: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-20T19:00:01: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2016-04-20T19:00:01: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2016-04-20T19:00:01: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:02: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:03: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:03: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:03: CFU(Webfeed): Query licensing type for LEID  = FlashPro-CS6-Win-GM
+2016-04-20T19:00:04: No valid license found for  = FlashPro-CS6-Win-GM
+2016-04-20T19:00:04: CFU(Webfeed): Query licensing type for LEID  = Audition-CS6-Win-GM
+2016-04-20T19:00:05: A valid perpetual license found for  = Audition-CS6-Win-GM
+2016-04-20T19:00:05: CFU(Webfeed): Query licensing type for LEID  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-20T19:00:05: No valid license found for  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-20T19:00:05: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-20T19:00:06: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-20T19:00:06: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:06: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:06: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T19:00:06: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T19:00:06: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:07: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:07: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T19:00:07: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T19:00:07: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:07: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:07: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-20T19:00:07: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T19:00:07: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:08: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-20T19:00:08: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-20T19:00:08: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T19:00:08: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-20T19:00:08: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-20T19:00:08: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-20T19:00:09: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-20T19:00:09: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-20T19:00:09: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-20T19:00:09: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-20T19:00:09: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-20T19:00:10: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-20T19:00:10: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-20T19:00:10: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-20T19:00:10: CFU(Webfeed): Query licensing type for LEID  = PremiereProApp-CS6-Win-GM
+2016-04-20T19:00:11: No valid license found for  = PremiereProApp-CS6-Win-GM
+2016-04-20T19:00:11: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T19:00:11: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T19:00:11: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-20T19:00:11: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-20T19:00:11: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-20T19:00:11: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2016-04-20T19:00:12: No valid license found for  = ExMan-CS6-Win-GM
+2016-04-20T19:00:12: CFU(Webfeed): Query licensing type for LEID  = AfterEffects-CS6-Win-GM
+2016-04-20T19:00:12: No valid license found for  = AfterEffects-CS6-Win-GM
+2016-04-20T19:00:12: CFU(Webfeed): Query licensing type for LEID  = Camera_Raw-7-Win-GM
+2016-04-20T19:00:13: No valid license found for  = Camera_Raw-7-Win-GM
+2016-04-20T19:00:13: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2016-04-20T19:00:16: CFU(Webfeed):: Web feed hasn't changed since last time.
+2016-04-20T19:00:16: CFU(Webfeed): Webfeed is empty
+2016-04-20T19:00:16: CFU(Webfeed): MRL is empty
+2016-04-20T19:00:16: Check for Updates was done successfully.
+2016-04-20T19:00:16: UCGetprogress : Check for updates returning state for reffId  = 
+2016-04-20T19:00:16: UCGetprogress : Check for updates returning state     = 21
+2016-04-20T19:00:16: UCGetprogress : Check for updates returning outError  = 0
+2016-04-20T19:00:16: UCGetprogress : Check for updates returning percent   = 100
+2016-04-20T19:00:16: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2016-04-20T19:00:17: Returning from << UCTerminate >> call with value = 1
+2016-04-20T19:00:17: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2016-04-20T19:00:17: <<< Adobe Updater Log End <<<
+
+
+2016-04-20T19:00:17: >>> Adobe Updater Log Begin >>>
+2016-04-20T19:00:17: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-20T19:00:17: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-20T19:00:17: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-20T19:00:17: UCInitialize : AAMLauncher was NOT running.
+2016-04-20T19:00:17: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-22T06:12:05: >>> Adobe Updater Log Begin >>>
+2016-04-22T06:12:05: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-22T06:12:05: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-22T06:12:05: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-22T06:12:08: UCInitialize : AAMLauncher was NOT running.
+2016-04-22T06:12:10: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-22T06:12:10: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2016-04-22T06:12:10: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2016-04-22T06:12:10: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:14: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:14: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:14: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:14: CFU(Webfeed): Query licensing type for LEID  = FlashPro-CS6-Win-GM
+2016-04-22T06:12:15: No valid license found for  = FlashPro-CS6-Win-GM
+2016-04-22T06:12:15: CFU(Webfeed): Query licensing type for LEID  = Audition-CS6-Win-GM
+2016-04-22T06:12:20: A valid perpetual license found for  = Audition-CS6-Win-GM
+2016-04-22T06:12:20: CFU(Webfeed): Query licensing type for LEID  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-22T06:12:20: No valid license found for  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-22T06:12:20: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-22T06:12:21: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-22T06:12:21: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:21: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:21: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:12:21: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:12:21: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:21: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:21: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:12:21: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:12:21: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:21: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:21: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-22T06:12:21: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:12:21: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:22: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:12:22: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-22T06:12:22: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:12:22: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-22T06:12:22: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-22T06:12:22: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-22T06:12:22: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-22T06:12:22: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-22T06:12:22: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-22T06:12:22: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-22T06:12:22: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-22T06:12:23: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-22T06:12:23: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-22T06:12:23: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:12:23: CFU(Webfeed): Query licensing type for LEID  = PremiereProApp-CS6-Win-GM
+2016-04-22T06:12:24: No valid license found for  = PremiereProApp-CS6-Win-GM
+2016-04-22T06:12:24: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:12:24: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:12:24: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:12:24: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-22T06:12:24: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-22T06:12:24: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2016-04-22T06:12:24: No valid license found for  = ExMan-CS6-Win-GM
+2016-04-22T06:12:24: CFU(Webfeed): Query licensing type for LEID  = AfterEffects-CS6-Win-GM
+2016-04-22T06:12:24: No valid license found for  = AfterEffects-CS6-Win-GM
+2016-04-22T06:12:24: CFU(Webfeed): Query licensing type for LEID  = Camera_Raw-7-Win-GM
+2016-04-22T06:12:25: No valid license found for  = Camera_Raw-7-Win-GM
+2016-04-22T06:12:25: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2016-04-22T06:12:26: CFU(Webfeed): Web feed has increased, Going for incremental feed download
+2016-04-22T06:12:26: Check for Updates was done successfully.
+2016-04-22T06:12:26: UCGetprogress : Check for updates returning state for reffId  = 
+2016-04-22T06:12:26: UCGetprogress : Check for updates returning state     = 21
+2016-04-22T06:12:26: UCGetprogress : Check for updates returning outError  = 0
+2016-04-22T06:12:26: UCGetprogress : Check for updates returning percent   = 100
+2016-04-22T06:12:26: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2016-04-22T06:12:26: Returning from << UCTerminate >> call with value = 1
+2016-04-22T06:12:26: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2016-04-22T06:12:26: <<< Adobe Updater Log End <<<
+
+
+2016-04-22T06:12:27: >>> Adobe Updater Log Begin >>>
+2016-04-22T06:12:27: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-22T06:12:27: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-22T06:12:27: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-22T06:12:27: UCInitialize : AAMLauncher was NOT running.
+2016-04-22T06:12:27: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-22T06:21:39: Returning from << UCTerminate >> call with value = 1
+2016-04-22T06:21:39: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2016-04-22T06:21:39: <<< Adobe Updater Log End <<<
+
+
+2016-04-22T06:21:39: >>> Adobe Updater Log Begin >>>
+2016-04-22T06:21:39: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-22T06:21:39: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-22T06:21:39: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-22T06:21:39: UCInitialize : AAMLauncher was NOT running.
+2016-04-22T06:21:39: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2016-04-22T06:21:39: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2016-04-22T06:21:39: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2016-04-22T06:21:39: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:40: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:40: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:40: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:40: CFU(Webfeed): Query licensing type for LEID  = FlashPro-CS6-Win-GM
+2016-04-22T06:21:40: No valid license found for  = FlashPro-CS6-Win-GM
+2016-04-22T06:21:40: CFU(Webfeed): Query licensing type for LEID  = Audition-CS6-Win-GM
+2016-04-22T06:21:41: A valid perpetual license found for  = Audition-CS6-Win-GM
+2016-04-22T06:21:41: CFU(Webfeed): Query licensing type for LEID  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-22T06:21:41: No valid license found for  = AdobeMediaEncoder-CS6-Win-GM
+2016-04-22T06:21:41: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-22T06:21:41: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-22T06:21:41: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:41: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:41: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:21:41: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:21:41: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:42: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:42: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:21:42: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:21:42: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:42: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:42: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-22T06:21:42: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:21:42: CFU(Webfeed): Query licensing type for LEID  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:42: No valid license found for  = Illustrator-CS6-Win-GM
+2016-04-22T06:21:42: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-22T06:21:42: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:21:42: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-22T06:21:43: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-22T06:21:43: CFU(Webfeed): Query licensing type for LEID  = Bridge-CS6-Win-GM
+2016-04-22T06:21:43: No valid license found for  = Bridge-CS6-Win-GM
+2016-04-22T06:21:43: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-22T06:21:44: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-22T06:21:44: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-22T06:21:44: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-22T06:21:44: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-22T06:21:44: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2016-04-22T06:21:44: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2016-04-22T06:21:44: CFU(Webfeed): Query licensing type for LEID  = PremiereProApp-CS6-Win-GM
+2016-04-22T06:21:44: No valid license found for  = PremiereProApp-CS6-Win-GM
+2016-04-22T06:21:44: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:21:44: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:21:44: CFU(Webfeed): Patch is meant only for perpetual licenses, but client doesn't have a valid perpetual license. 
+2016-04-22T06:21:44: CFU(Webfeed): Query licensing type for LEID  = Photoshop-CS6-Win-GM
+2016-04-22T06:21:45: A valid perpetual license found for  = Photoshop-CS6-Win-GM
+2016-04-22T06:21:45: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2016-04-22T06:21:45: No valid license found for  = ExMan-CS6-Win-GM
+2016-04-22T06:21:45: CFU(Webfeed): Query licensing type for LEID  = AfterEffects-CS6-Win-GM
+2016-04-22T06:21:45: No valid license found for  = AfterEffects-CS6-Win-GM
+2016-04-22T06:21:45: CFU(Webfeed): Query licensing type for LEID  = Camera_Raw-7-Win-GM
+2016-04-22T06:21:45: No valid license found for  = Camera_Raw-7-Win-GM
+2016-04-22T06:21:46: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2016-04-22T06:21:46: CFU(Webfeed):: Web feed hasn't changed since last time.
+2016-04-22T06:21:46: CFU(Webfeed): Webfeed is empty
+2016-04-22T06:21:46: CFU(Webfeed): MRL is empty
+2016-04-22T06:21:46: Check for Updates was done successfully.
+2016-04-22T06:21:46: UCGetprogress : Check for updates returning state for reffId  = 
+2016-04-22T06:21:46: UCGetprogress : Check for updates returning state     = 21
+2016-04-22T06:21:46: UCGetprogress : Check for updates returning outError  = 0
+2016-04-22T06:21:46: UCGetprogress : Check for updates returning percent   = 100
+2016-04-22T06:21:46: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2016-04-22T06:21:47: Returning from << UCTerminate >> call with value = 1
+2016-04-22T06:21:47: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2016-04-22T06:21:47: <<< Adobe Updater Log End <<<
+
+
+2016-04-22T06:21:47: >>> Adobe Updater Log Begin >>>
+2016-04-22T06:21:47: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2016-04-22T06:21:47: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2016-04-22T06:21:47: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2016-04-22T06:21:47: UCInitialize : AAMLauncher was NOT running.
+2016-04-22T06:21:47: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0

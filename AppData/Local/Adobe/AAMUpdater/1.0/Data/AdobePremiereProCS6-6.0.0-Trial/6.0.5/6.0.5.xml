@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><Manifest CSUVersion="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../oobe/6.0/installertech/public/Common/xplat/schema/CSUManifest.xsd">
+	<UpdateID>6.0.5</UpdateID>
+	<OwningChannel>AdobePremiereProCS6-6.0.0-Trial</OwningChannel>
+	<TargetBuildType>2</TargetBuildType>
+	<DisplayName default="en_US"><en_US>Adobe Premiere Pro CS6 6.0.5 Update</en_US>
+		<de_DE>Adobe Premiere Pro CS6 6.0.5 Update</de_DE>
+		<es_ES>Actualización de Adobe Premiere Pro CS6 6.0.5</es_ES>
+		<es_MX>Actualización de Adobe Premiere Pro CS6 6.0.5</es_MX>
+		<fr_FR>Mise à jour Adobe Premiere Pro CS6 6.0.5</fr_FR>
+		<fr_CA>Mise à jour Adobe Premiere Pro CS6 6.0.5</fr_CA>
+		<fr_MA>Mise à jour Adobe Premiere Pro CS6 6.0.5</fr_MA>
+		<it_IT>Aggiornamento Adobe Premiere Pro CS6 6.0.5</it_IT>
+		<ja_JP>Adobe Premiere Pro CS6 6.0.5 アップデート</ja_JP>
+		<ko_KR>Adobe Premiere Pro CS6 6.0.5 업데이트</ko_KR>
+	</DisplayName>
+	<Description default="en_US"><en_US>The Adobe Premiere Pro CS 6.0.5 update provides an important fix addressing setting in and out points in the source monitor.  This update is recommended for all users.</en_US>
+		<de_DE>Dieses Update für Adobe Premiere Pro CS 6.0.5 enthält eine wichtige Lösung für ein Problem beim Setzen von In- und Out-Points im Quellmonitor. Dieses Update wird für alle Benutzer empfohlen.</de_DE>
+		<es_ES>La actualización de Adobe Premiere Pro CS 6.0.5 ofrece una corrección importante para añadir y quitar puntos en el supervisor de orígenes. Se recomienda esta actualización para todos los usuarios.</es_ES>
+		<es_MX>La actualización de Adobe Premiere Pro CS 6.0.5 ofrece una corrección importante para añadir y quitar puntos en el supervisor de orígenes. Se recomienda esta actualización para todos los usuarios.</es_MX>
+		<fr_FR>La mise à jour Adobe Premiere Pro CS 6.0.5 comporte un correctif important relatif à la définition des points d’entrée et de sortie dans le moniteur source. Elle est recommandée pour tous les utilisateurs.</fr_FR>
+		<fr_CA>La mise à jour Adobe Premiere Pro CS 6.0.5 comporte un correctif important relatif à la définition des points d’entrée et de sortie dans le moniteur source. Elle est recommandée pour tous les utilisateurs.</fr_CA>
+		<fr_MA>La mise à jour Adobe Premiere Pro CS 6.0.5 comporte un correctif important relatif à la définition des points d’entrée et de sortie dans le moniteur source. Elle est recommandée pour tous les utilisateurs.</fr_MA>
+		<it_IT>L'aggiornamento Adobe Premiere Pro CS 6.0.5 contiene un'importante correzione per l'impostazione dei punti di attacco e stacco nel monitor Sorgente. Consigliato per tutti gli utenti.</it_IT>
+		<ja_JP>Adobe Premiere Pro CS 6.0.5 アップデートには、ソースモニターでのインポイントおよびアウトポイントの設定に関する重要な修正が含まれています。このアップデートは、すべてのユーザーに対して推奨されます。</ja_JP>
+		<ko_KR>Adobe Premiere Pro CS 6.0.5 업데이트에서는 소스 모니터에서 시작/종료 지점을 설정하는 문제를 해결하는 중요한 수정 사항을 제공합니다. 이 업데이트는 모든 사용자에게 권장됩니다.</ko_KR>
+	</Description>
+	<AffectedChannels><ChannelID>AdobePremiereProCS6-6.0.0-Trial</ChannelID>
+	</AffectedChannels>
+	<InstallFiles><File RIBSBased="1"><Name>setup.zip</Name>
+      <Type>1</Type>
+      <ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+      <Size>333993451</Size>
+      
+      
+      
+    </File>
+  </InstallFiles>
+	<NeedsReboot>false</NeedsReboot>
+
+  
+  
+  
+  
+  
+  
+  <UpdatePayloadID>{692FB95F-C093-40CA-B1F6-CAE22F4570B1}</UpdatePayloadID>
+  <OwningPayloadID>{42CED1DA-1C36-45D2-88C0-C32DB6B82B49}</OwningPayloadID>
+  <ConflictingProcesses><Process blocking="1" processType="Adobe">^[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp][Ss][Ee][Rr][Vv][Ee][Rr].[Ee][Xx][Ee]</Process>
+    <Process blocking="1" processType="Adobe">^[Dd][Yy][Nn][Aa][Mm][Ii][Cc][Ll][Ii][Nn][Kk][Mm][Aa][Nn][Aa][Gg][Ee][Rr].[Ee][Xx][Ee]*</Process>
+    <Process blocking="1" processType="Adobe">^[Aa][Dd][Oo][Bb][Ee] [Pp][Rr][Ee][Mm][Ii][Ee][Rr][Ee] [Pp][Rr][Oo].[Ee][Xx][Ee]</Process>
+  </ConflictingProcesses>
+</Manifest>

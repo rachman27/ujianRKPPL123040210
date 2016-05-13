@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CSUManifest.xsd" CSUVersion="1.0">
+
+<UpdateID>1.0.1</UpdateID>
+
+<OwningChannel>IdeasPluginforAICS664-Bit-1.0</OwningChannel>
+
+<DisplayName default="en_US">
+	<cs_CZ>Aktualizace zásuvného modulu Touch App</cs_CZ>
+	<da_DK>Opdatering af ekstramodul til Touch App</da_DK>
+	<de_DE>Aktualisierung des Touch App-Zusatzmoduls</de_DE>
+	<en_AE>Touch App Plugin Update</en_AE>
+	<en_GB>Touch App Plugin Update</en_GB>
+	<en_IL>Touch App Plugin Update</en_IL>
+	<en_US>Touch App Plugin Update</en_US>
+	<es_ES>Actualización de plugin de Touch App</es_ES>
+	<es_MX>Actualización de plugin de Touch App</es_MX>
+	<fi_FI>Touch App Plugin Update</fi_FI>
+	<fr_CA>Mise à jour du module externe pour les Touch Apps</fr_CA>
+	<fr_FR>Mise à jour du module externe pour les Touch Apps</fr_FR>
+	<fr_MA>Mise à jour du module externe pour les Touch Apps</fr_MA>
+	<hu_HU>Touch App bővítmény frissítése</hu_HU>
+	<it_IT>Aggiornamento del plug-in Touch App</it_IT>
+	<ja_JP>Touch App プラグインアップデート</ja_JP>
+	<ko_KR>Touch App 플러그인 업데이트</ko_KR>
+	<nl_NL>Update voor plug-in Touch App</nl_NL>
+	<pl_PL>Uaktualnienie wtyczki Touch App</pl_PL>
+	<pt_BR>Atualização do plug-in do Touch Apps</pt_BR>
+	<ru_RU>Обновление внешнего модуля приложения с поддержкой сенсорной технологии Touch App</ru_RU>
+	<sv_SE>Uppdatering av plugin-programmet Touch App.</sv_SE>
+	<tr_TR>Touch App Eklenti Güncellemesi</tr_TR>
+	<uk_UA>Оновлення зовнішнього модуля Touch App</uk_UA>
+	<zh_CN>Touch App 增效工具更新</zh_CN>
+	<zh_TW>Touch App 增效模組更新</zh_TW>
+</DisplayName>
+
+<Description default="en_US">
+	<cs_CZ>Tato stažená aktualizace obsahuje opravu chyby, kdy Adobe Illustrator CS6 nemůže otevřít soubor aplikace Adobe Ideas s názvem ve dvoubajtové znakové sadě.</cs_CZ>
+	<da_DK>Denne download indeholder en rettelse af en fejl, hvor Adobe Illustrator CS6 ikke kan åbne en Adobe Ideas-fil med et dobbeltbytenavn.</da_DK>
+	<de_DE>Mit diesem Download wird das Problem behoben, dass Adobe Illustrator CS6 Adobe Ideas-Dateien mit Doublebyte-Zeichen im Namen nicht öffnen kann.</de_DE>
+	<en_AE>This download provides a fix for issue where Adobe Illustrator CS6 cannot open an Adobe Ideas file with a double-byte name.</en_AE>
+	<en_GB>This download provides a fix for issue where Adobe Illustrator CS6 cannot open an Adobe Ideas file with a double-byte name.</en_GB>
+	<en_IL>This download provides a fix for issue where Adobe Illustrator CS6 cannot open an Adobe Ideas file with a double-byte name.</en_IL>
+	<en_US>This download provides a fix for issue where Adobe Illustrator CS6 cannot open an Adobe Ideas file with a double-byte name.</en_US>
+	<es_ES>Con esta descarga, se corregirá el problema que impedía a Adobe Illustrator CS6 abrir un archivo de Adobe Ideas con un nombre de doble byte.</es_ES>
+	<es_MX>Con esta descarga, se corregirá el problema que impedía a Adobe Illustrator CS6 abrir un archivo de Adobe Ideas con un nombre de doble byte.</es_MX>
+	<fi_FI>This download provides a fix for issue where Adobe Illustrator CS6 cannot open an Adobe Ideas file with a double-byte name.</fi_FI>
+	<fr_CA>Ce téléchargement contient un correctif qui résout le fait qu'Adobe Illustrator CS6 ne puisse pas ouvrir les fichiers Adobe Ideas dont le nom comprend des caractères codés sur deux octets.</fr_CA>
+	<fr_FR>Ce téléchargement contient un correctif qui résout le fait qu'Adobe Illustrator CS6 ne puisse pas ouvrir les fichiers Adobe Ideas dont le nom comprend des caractères codés sur deux octets.</fr_FR>
+	<fr_MA>Ce téléchargement contient un correctif qui résout le fait qu'Adobe Illustrator CS6 ne puisse pas ouvrir les fichiers Adobe Ideas dont le nom comprend des caractères codés sur deux octets.</fr_MA>
+	<hu_HU>Javítja azt a hibát, amikor az Adobe Illustrator CS6 nem tudott megnyitni egy két byte-os nevű Adobe Ideas fájlt.</hu_HU>
+	<it_IT>Questo download corregge un problema che impediva ad Adobe Illustrator CS6 di aprire un file Adobe Ideas con nome contenente caratteri a doppio byte.</it_IT>
+	<ja_JP>このダウンロードにより、名前に全角文字が含まれる Adobe Ideas ファイルを Adobe Illustrator CS6 で開けないという問題が修正されます。</ja_JP>
+	<ko_KR>이 다운로드는 Adobe Illustrator CS6 가 2바이트 이름의 Adobe Ideas 파일을 열지 못하는 문제를 해결합니다.</ko_KR>
+	<nl_NL>In deze download wordt het probleem opgelost waardoor Adobe Illustrator CS6 geen Adobe Ideas-bestanden met double-byte namen kon openen.</nl_NL>
+	<pl_PL>Ten plik do pobrania zawiera poprawkę, która rozwiązuje problem dotyczący otwierania plików Adobe Ideas o dwubajtowych nazwach w programie Adobe Illustrator CS6.</pl_PL>
+	<pt_BR>Este download fornece a correção de um problema, quando o Adobe Illustrator CS6 não consegue abrir um arquivo Adobe Ideas cujo nome tem byte duplo.</pt_BR>
+	<ru_RU>В этот ресурс для загрузки входит исправление проблемы, связанной с невозможностью открыть в Adobe Illustrator CS6 файл Adobe Ideas с двухбайтным именем.</ru_RU>
+	<sv_SE>Hämtningen innehåller en korrigering av problemet att Adobe Illustrator CS6 inte kan öppna Adobe Ideas-filer med DBCS-kodade namn.</sv_SE>
+	<tr_TR>Bu indirme, Adobe Illustrator CS6 yazılımının çift baytlık dosya adına sahip Adobe Ideas dosyalarını açamama sorununa çözüm sunar.</tr_TR>
+	<uk_UA>Цей файл завантаження надає можливість вирішення проблеми відкриття файлу Adobe Ideas із двобайтовим ім'ям у Adobe Illustrator CS6.</uk_UA>
+	<zh_CN>此下载修复 Adobe Illustrator CS6 无法打开具有双字节名称的 Adobe Ideas 文件的问题。</zh_CN>
+	<zh_TW>此下載修正 Adobe Illustrator CS6 無法開啟具有雙位元組名稱之 Adobe Ideas 檔案的問題。</zh_TW>
+</Description>
+
+<TargetBuildType>2</TargetBuildType>
+
+<AffectedChannels>
+
+<ChannelID>IdeasPluginforAICS664-Bit-1.0</ChannelID>
+
+</AffectedChannels>
+
+<InstallFiles>
+    <File RIBSBased="1">
+      <Name>Setup.zip</Name>
+      <Type>1</Type>
+      <ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+      <Size>556465</Size>
+
+    </File>
+  </InstallFiles>
+
+<NeedsReboot>false</NeedsReboot>
+</Manifest>

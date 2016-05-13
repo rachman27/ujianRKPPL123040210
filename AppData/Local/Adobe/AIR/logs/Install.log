@@ -1,0 +1,21 @@
+﻿[2016-02-22:19:38:43] Runtime Installer begin with version 3.1.0.4880 on Windows 7 x86
+[2016-02-22:19:38:43] Commandline is: -silent -eulaAccepted -programMenu AdobeHelp.air
+[2016-02-22:19:38:43] No installed runtime detected
+[2016-02-22:19:38:43] Invoking Application Installer for combined install
+[2016-02-22:19:38:43] Launching subprocess with commandline C:\Users\SB-604~1\AppData\Local\Temp\AIREF50.tmp\Adobe AIR\Versions\1.0\Adobe AIR Application Installer -runtime C:\Users\SB-604~1\AppData\Local\Temp\AIREF50.tmp -silent -withRuntime -url -programMenu -eulaAccepted file:///D:/Master/Adobe%20Master%20Collection%20CS6%20WIN/payloads/AdobeHelp/AdobeHelp.air
+[2016-02-22:19:38:43] Application Installer begin with version 3.1.0.4880 on Windows 7 x86
+[2016-02-22:19:38:43] Commandline is: -runtime C:\Users\SB-604~1\AppData\Local\Temp\AIREF50.tmp -silent -withRuntime -url -programMenu -eulaAccepted file:///D:/Master/Adobe%20Master%20Collection%20CS6%20WIN/payloads/AdobeHelp/AdobeHelp.air
+[2016-02-22:19:38:43] No installed runtime detected
+[2016-02-22:19:38:44] Unpackaging file:///D:/Master/Adobe%20Master%20Collection%20CS6%20WIN/payloads/AdobeHelp/AdobeHelp.air to C:\Users\SB-604-18\AppData\Local\Temp\flaFB12.tmp
+[2016-02-22:19:38:45] Application signature verified
+[2016-02-22:19:38:45] Unpackaging/validation complete
+[2016-02-22:19:38:45] Converting unpackaged application to a native installation package in C:\Users\SB-604-18\AppData\Local\Temp\fla51.tmp
+[2016-02-22:19:38:46] Native installation package creation succeeded
+[2016-02-22:19:38:46] Starting silent combined runtime and app install.
+ Installing runtime version 3.1.0.4880.
+ Installing app chc.4875E02D9FB21EE389F73B8D1702B320485DF8CE.1 version 4.0.244 to C:\Program Files (x86)\Adobe using the source file at file:///D:/Master/Adobe%20Master%20Collection%20CS6%20WIN/payloads/AdobeHelp/AdobeHelp.air
+[2016-02-22:19:38:46] Installing msi at C:\Users\SB-604~1\AppData\Local\Temp\AIREF50.tmp\setup.msi with guid {FE23D063-934D-4829-A0D8-00634CE79B4A}
+[2016-02-22:19:38:48] Installing msi at C:\Users\SB-604-18\AppData\Local\Temp\fla51.tmp\setup.msi with guid {7451619F-5377-BE39-26FC-4685CB012ABB}
+[2016-02-22:19:38:51] Application Installer end with exit code 0
+[2016-02-22:19:38:51] Subprocess app installer succeeded
+[2016-02-22:19:38:51] Runtime Installer end with exit code 0

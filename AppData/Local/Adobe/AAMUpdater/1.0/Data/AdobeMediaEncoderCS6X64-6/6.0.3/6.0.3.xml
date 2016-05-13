@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../oobe/6.0/installertech/public/Common/xplat/schema/CSUManifest.xsd" CSUVersion="1.0">
+	<UpdateID>6.0.3</UpdateID>
+	<OwningChannel>AdobeMediaEncoderCS6X64-6</OwningChannel>
+	<TargetBuildType>2</TargetBuildType>
+	<DisplayName default="en_US">
+		<en_US>Adobe Media Encoder CS6 6.0.3 Update</en_US>
+		<cs_CZ>Aktualizace Adobe Media Encoder CS6 6.0.3</cs_CZ>
+		<de_DE>Adobe Media Encoder CS6 6.0.3-Update</de_DE>
+		<es_ES>Actualización de Adobe Media Encoder CS6 6.0.3</es_ES>
+		<es_MX>Actualización de Adobe Media Encoder CS6 6.0.3</es_MX>
+		<fr_FR>Mise à jour d'Adobe Media Encoder CS6 6.0.3</fr_FR>
+		<fr_CA>Mise à jour d'Adobe Media Encoder CS6 6.0.3</fr_CA>
+		<fr_MA>Mise à jour d'Adobe Media Encoder CS6 6.0.3</fr_MA>
+		<it_IT>Aggiornamento di Adobe Media Encoder CS6 6.0.3</it_IT>
+		<ja_JP>Adobe Media Encoder CS6 6.0.3 アップデート</ja_JP>
+		<ko_KR>Adobe Media Encoder CS6 6.0.3 업데이트</ko_KR>
+		<nl_NL>Adobe Media Encoder CS6 6.0.3-update</nl_NL>
+		<pl_PL>Adobe Media Encoder CS6 — aktualizacja 6.0.3</pl_PL>
+		<pt_BR>Atualização 6.0.3 do Adobe Media Encoder CS6</pt_BR>
+		<ru_RU>Обновление Adobe Media Encoder CS6 6.0.3</ru_RU>
+		<sv_SE>Adobe Media Encoder CS6 6.0.3-uppdatering</sv_SE>
+		<tr_TR>Adobe Media Encoder CS6 6.0.3 Güncellemesi</tr_TR>
+		<zh_CN>Adobe Media Encoder CS6 6.0.3 更新</zh_CN>		
+		<zh_TW>Adobe Media Encoder CS6 6.0.3 更新</zh_TW>
+	</DisplayName>
+	<Description default="en_US">
+		<en_US>Bug fixes and platform compatibility improvements.</en_US>
+		<cs_CZ>Opravy chyb a zlepšení kompatibility na různých platformách.</cs_CZ>
+		<de_DE>Fehlerkorrekturen und Verbesserungen bei der Plattformkompatibilität.</de_DE>
+		<es_ES>Soluciones a errores y mejoras de compatibilidad con plataformas.</es_ES>
+		<es_MX>Soluciones a errores y mejoras de compatibilidad con plataformas.</es_MX>
+		<fr_FR>Corrections de bogues et améliorations pour la compatibilité des plateformes.</fr_FR>
+		<fr_CA>Corrections de bogues et améliorations pour la compatibilité des plateformes.</fr_CA>
+		<fr_MA>Corrections de bogues et améliorations pour la compatibilité des plateformes.</fr_MA>
+		<it_IT>Correzioni di alcuni bug e miglioramenti per compatibilità piattaforma.</it_IT>
+		<ja_JP>不具合の修正およびプラットフォームの互換性の改善。</ja_JP>
+		<ko_KR>버그 수정 및 플랫폼 호환성 개선 사항입니다.</ko_KR>
+		<nl_NL>Probleemoplossingen en platformcompatibiliteitsverbeteringen.</nl_NL>
+		<pl_PL>Poprawki błędów oraz udoskonalenia zgodności.</pl_PL>
+		<pt_BR>Correções de erros e melhorias na compatibilidade da plataforma.</pt_BR>
+		<ru_RU>Исправления ошибок и улучшение платформенной совместимости.</ru_RU>
+		<sv_SE>Felkorrigeringar och förbättringar med avseende på plattformskompatibilitet.</sv_SE>
+		<tr_TR>Hata çözümleri ve platform uyum geliştirmeleri.</tr_TR>
+		<zh_CN>修补程序和平台兼容性改进。</zh_CN>		
+		<zh_TW>錯誤修正和平台相容性改進。</zh_TW>
+	</Description>
+	<AffectedChannels>
+		<ChannelID>AdobeMediaEncoderCS6X64-6</ChannelID>
+	</AffectedChannels>
+	<InstallFiles>
+    <File RIBSBased="1">
+      <Name>Setup.zip</Name>
+      <Type>1</Type>
+      <ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+      <Size>57591752</Size>
+    </File>
+  </InstallFiles>
+	<NeedsReboot>false</NeedsReboot>
+</Manifest>

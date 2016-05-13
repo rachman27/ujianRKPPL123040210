@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../oobe/6.0/installertech/public/Common/xplat/schema/CSUManifest.xsd" CSUVersion="1.0">
+	<UpdateID>5.0.2</UpdateID>
+	<OwningChannel>AdobeAuditionCS6-5.0</OwningChannel>
+	<TargetBuildType>2</TargetBuildType>
+	<DisplayName default="en_US">
+		<en_US>Adobe Audition CS6</en_US>
+		<de_DE>Adobe Audition CS6</de_DE>
+		<es_ES>Adobe Audition CS6</es_ES>
+		<es_MX>Adobe Audition CS6</es_MX>
+		<fr_FR>Adobe Audition CS6</fr_FR>
+		<fr_CA>Adobe Audition CS6</fr_CA>
+		<fr_MA>Adobe Audition CS6</fr_MA>
+		<it_IT>Adobe Audition CS6</it_IT>
+		<ja_JP>Adobe Audition CS6</ja_JP>
+		<ko_KR>Adobe Audition CS6</ko_KR>
+	</DisplayName>
+	<Description default="en_US">
+		<en_US>Adobe Audition CS6, version 5.0.2, provides important fixes for a number of defects and adds official compliance with Windows 8. We strongly recommend you install this update. For more information about this update, including a list of fixes and known issues, please see http://www.adobe.com/go/audition_502_readme</en_US>
+		<de_DE>In Adobe Audition CS6, Version 5.0.2, wurde eine Reihe von gravierenden Problemen behoben, und die Version ist offiziell mit Windows 8 kompatibel. Wir empfehlen dringend die Installation dieses Updates. Weitere Informationen zu diesem Update, einschließlich einer Liste der behobenen und bekannten Probleme, erhalten Sie unter http://www.adobe.com/go/audition_502_readme_de</de_DE>
+		<es_ES>La versión 5.0.2 de Adobe Audition CS6 ofrece soluciones importantes para ciertos errores y es compatible de forma oficial con Windows 8. Le recomendamos encarecidamente que instale esta actualización. Para obtener más información sobre esta actualización y una lista de las soluciones y problemas conocidos, consulte http://www.adobe.com/go/audition_502_readme_es</es_ES>
+		<es_MX>La versión 5.0.2 de Adobe Audition CS6 ofrece soluciones importantes para ciertos errores y es compatible de forma oficial con Windows 8. Le recomendamos encarecidamente que instale esta actualización. Para obtener más información sobre esta actualización y una lista de las soluciones y problemas conocidos, consulte http://www.adobe.com/go/audition_502_readme_es</es_MX>
+		<fr_FR>Adobe Audition CS6, version 5.0.2, corrige un certain nombre de défauts et est officiellement compatible avec Windows 8. Nous vous recommandons vivement d’installer cette mise à jour. Pour en savoir plus sur cette mise à jour et pour consulter une liste des correctifs et problèmes connus, rendez-vous à l’adresse suivante : http://www.adobe.com/go/audition_502_readme_fr</fr_FR>
+		<fr_CA>Adobe Audition CS6, version 5.0.2, corrige un certain nombre de défauts et est officiellement compatible avec Windows 8. Nous vous recommandons vivement d’installer cette mise à jour. Pour en savoir plus sur cette mise à jour et pour consulter une liste des correctifs et problèmes connus, rendez-vous à l’adresse suivante : http://www.adobe.com/go/audition_502_readme_fr</fr_CA>
+		<fr_MA>Adobe Audition CS6, version 5.0.2, corrige un certain nombre de défauts et est officiellement compatible avec Windows 8. Nous vous recommandons vivement d’installer cette mise à jour. Pour en savoir plus sur cette mise à jour et pour consulter une liste des correctifs et problèmes connus, rendez-vous à l’adresse suivante : http://www.adobe.com/go/audition_502_readme_fr</fr_MA>
+		<it_IT>Adobe Audition CS6, versione 5.0.2, offre importanti correzioni per diversi piccoli difetti e aggiunge conformità ufficiale a Windows 8. Si consiglia vivamente di installare questo aggiornamento. Per ulteriori informazioni e un elenco delle correzioni e dei problemi noti, visitate http://www.adobe.com/go/audition_502_readme_it</it_IT>
+		<ja_JP>Adobe Audition CS6 バージョン 5.0.2 には、数多くの不具合に対応する重要な修正が含まれています。また、Windows 8 との正式な互換性が追加されます。このアップデートをインストールすることを強くお勧めします。修正のリストや既知の問題を含む、このアップデートについての詳細は、http://www.adobe.com/go/audition_502_readme_jp を参照してください。</ja_JP>
+		<ko_KR>Adobe Audition CS6 버전 5.0.2는 여러 가지 결함에 대한 중요한 수정 사항을 제공하고 Windows 8과의 공식적인 호환성을 추가합니다. 이 업데이트를 반드시 설치하는 것이 좋습니다. 수정 사항 및 알려진 문제 목록을 포함하여 이 업데이트에 대한 자세한 내용은 http://www.adobe.com/go/audition_502_readme_kr를 참조하십시오.</ko_KR>
+	</Description>
+	<AffectedChannels>
+		<ChannelID>AdobeAuditionCS6-5.0</ChannelID>
+	</AffectedChannels>
+	<InstallFiles>
+    <File RIBSBased="1">
+      <Name>Setup.zip</Name>
+      <Type>1</Type>
+      <ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+      <Size>42954669</Size>
+	</File>
+  </InstallFiles>
+	<NeedsReboot>false</NeedsReboot>
+</Manifest>

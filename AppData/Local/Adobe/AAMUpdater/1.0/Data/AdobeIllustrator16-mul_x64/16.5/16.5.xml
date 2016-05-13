@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CSUManifest.xsd" CSUVersion="1.0">
+    <UpdateID>16.5</UpdateID>
+    <OwningChannel>AdobeIllustrator16-mul_x64</OwningChannel>
+    <TargetBuildType>2</TargetBuildType>
+	<TargetLicensingType>2</TargetLicensingType>
+	<RecommendingChannels>
+		<ChannelID>AdobeIllustrator16-mul_x64</ChannelID>
+	</RecommendingChannels>
+    <DisplayName default="en_US">
+        <en_US>Adobe Illustrator CS6 Update (version 16.0.3)</en_US>
+		<en_GB>Adobe Illustrator CS6 Update (version 16.0.3)</en_GB>
+        <cs_CZ>Adobe Illustrator CS6 - aktualizace (verze 16.0.3)</cs_CZ>
+        <da_DK>Adobe Illustrator CS6 – opdatering (version 16.0.3)</da_DK>
+        <de_DE>Adobe Illustrator CS6-Aktualisierung (Version 16.0.3)</de_DE>
+        <es_ES>Actualización de Adobe Illustrator CS6 (versión 16.0.3)</es_ES>
+		<es_MX>Actualización de Adobe Illustrator CS6 (versión 16.0.3)</es_MX>
+        <fr_FR>Mise à jour d'Adobe Illustrator CS6 (version 16.0.3)</fr_FR>
+		<fr_CA>Mise à jour d'Adobe Illustrator CS6 (version 16.0.3)</fr_CA>
+		<fr_MA>Mise à jour d'Adobe Illustrator CS6 (version 16.0.3)</fr_MA>
+		<fi_FI>Adobe Illustrator CS6 Update (version 16.0.3)</fi_FI>
+        <hu_HU>Adobe Illustrator CS6 frissítés (16.0.3 verzió)</hu_HU>
+        <it_IT>Aggiornamento Adobe Illustrator CS6 (versione 16.0.3)</it_IT>
+        <ja_JP>Adobe Illustrator CS6 アップデート (バージョン 16.0.3)</ja_JP>
+        <ko_KR>Adobe Illustrator CS6 업데이트(버전 16.0.3)</ko_KR>
+        <nl_NL>Adobe Illustrator CS6-update (versie 16.0.3)</nl_NL>
+        <pl_PL>Adobe Illustrator CS6 — uaktualnienie (wersja 16.0.3)</pl_PL>
+        <pt_BR>Atualização do Adobe Illustrator CS6 (Versão 16.0.3)</pt_BR>
+        <ru_RU>Обновление Adobe Illustrator CS6 (версия 16.0.3)</ru_RU>
+        <sv_SE>Adobe Illustrator CS6-uppdatering (version 16.0.3)</sv_SE>
+        <tr_TR>Adobe Illustrator CS6 Güncellemesi (sürüm 16.0.3)</tr_TR>
+        <uk_UA>Оновлення Adobe Illustrator CS6 (версія 16.0.3)</uk_UA>
+        <zh_CN>Adobe Illustrator CS6 更新（版本 16.0.3）</zh_CN>
+        <zh_TW>Adobe Illustrator CS6 更新 (版本 16.0.3)</zh_TW>
+		<en_AE>Adobe Illustrator CS6 Update (version 16.0.3)</en_AE>
+		<en_IL>Adobe Illustrator CS6 Update (version 16.0.3)</en_IL>
+    </DisplayName>
+    <Description default="en_US">
+		<en_US>The Adobe Illustrator 16.0.3 update provides several stability fixes.</en_US>
+		<en_GB>The Adobe Illustrator 16.0.3 update provides several stability fixes.</en_GB>
+        <cs_CZ>Aktualizace Adobe Illustrator 16.0.3 obsahuje několik oprav v oblasti stability.</cs_CZ>
+        <da_DK>Opdateringen til Adobe Illustrator 16.0.3 indeholder adskillige rettelser af problemer med stabiliteten.</da_DK>
+        <de_DE>Die Adobe Illustrator 16.0.3-Aktualisierung behebt mehrere Stabilitätsprobleme.</de_DE>
+        <es_ES>La actualización 16.0.3 de Adobe Illustrator soluciona varios problemas de estabilidad.</es_ES>
+		<es_MX>La actualización 16.0.3 de Adobe Illustrator soluciona varios problemas de estabilidad.</es_MX>
+        <fr_FR>La mise à jour 16.0.3 d’Adobe Illustrator fournit plusieurs correctifs de stabilité.</fr_FR>
+		<fr_CA>La mise à jour 16.0.3 d’Adobe Illustrator fournit plusieurs correctifs de stabilité.</fr_CA>
+		<fr_MA>La mise à jour 16.0.3 d’Adobe Illustrator fournit plusieurs correctifs de stabilité.</fr_MA>
+		<fi_FI>The Adobe Illustrator 16.0.3 update provides several stability fixes.</fi_FI>
+        <hu_HU>Az Adobe Illustrator 16.0.3 frissítés számos stabilitást növelő javítást tartalmaz.</hu_HU>
+        <it_IT>L'aggiornamento Adobe Illustrator 16.0.3 corregge diversi problemi di stabilità.</it_IT>
+        <ja_JP>Adobe Illustrator 16.0.3 アップデートには、いくつかの安定性に関する修正事項が含まれています。</ja_JP>
+        <ko_KR>Adobe Illustrator 16.0.3 업데이트는 여러 가지 안정성 관련 수정 사항을 제공합니다.</ko_KR>
+        <nl_NL>De Adobe Illustrator 16.0.3-update bevat verschillende stabiliteitsverbeteringen.</nl_NL>
+        <pl_PL>Uaktualnienie Adobe Illustrator 16.0.3 zawiera kilka poprawek dotyczących stabilności pracy programu.</pl_PL>
+        <pt_BR>A versão 16.0.3 do Adobe Illustrator fornece diversas correções de estabilidade.</pt_BR>
+        <ru_RU>В обновлении Adobe Illustrator 16.0.3 исправлено несколько важных проблем, связанных со стабильностью работы приложения.</ru_RU>
+        <sv_SE>Uppdateringen Adobe Illustrator 16.0.3 innehåller flera stabilitetskorrigeringar.</sv_SE>
+        <tr_TR>Adobe Illustrator 16.0.3 güncellemesi bazı stabilite sorunlarına çözüm sunar.</tr_TR>
+        <uk_UA>Оновлення Adobe Illustrator 16.0.3 надає деякі виправлення для забезпечення стабільності роботи.</uk_UA>
+        <zh_CN>Adobe Illustrator 16.0.3 更新修复了几个稳定性问题。</zh_CN>
+        <zh_TW>Adobe Illustrator 16.0.3 更新提供數項穩定性修正。</zh_TW>
+		<en_AE>The Adobe Illustrator 16.0.3 update provides several stability fixes.</en_AE>
+		<en_IL>The Adobe Illustrator 16.0.3 update provides several stability fixes.</en_IL>
+	</Description>
+    <AffectedChannels>
+        <ChannelID>AdobeIllustrator16-mul_x64</ChannelID>
+    </AffectedChannels>
+    <InstallFiles>
+    <File RIBSBased="1">
+      <Name>Setup.zip</Name>
+      <Type>1</Type>
+      <ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+      <Size>60469490</Size>
+
+    </File>
+  </InstallFiles>
+    <NeedsReboot>false</NeedsReboot>
+</Manifest>

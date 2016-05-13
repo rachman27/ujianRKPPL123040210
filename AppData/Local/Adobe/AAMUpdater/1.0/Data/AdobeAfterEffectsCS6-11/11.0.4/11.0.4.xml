@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><Manifest CSUVersion="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../oobe/6.0/installertech/public/Common/xplat/schema/CSUManifest.xsd">
+	<UpdateID>11.0.4</UpdateID>
+	<OwningChannel>AdobeAfterEffectsCS6-11</OwningChannel>
+	<TargetBuildType>2</TargetBuildType>
+	<DisplayName default="en_US"><en_US>Adobe After Effects CS6 (11.0.4) update</en_US>
+		<de_DE>Adobe After Effects CS6 - Update 11.0.4</de_DE>
+		<es_ES>Actualización de Adobe After Effects CS6 (11.0.4)</es_ES>
+		<es_MX>Actualización de Adobe After Effects CS6 (11.0.4)</es_MX>
+		<fr_FR>Mise à jour Adobe After Effects CS6 (11.0.4)</fr_FR>
+		<fr_CA>Mise à jour Adobe After Effects CS6 (11.0.4)</fr_CA>
+		<fr_MA>Mise à jour Adobe After Effects CS6 (11.0.4)</fr_MA>
+		<it_IT>Aggiornamento Adobe After Effects CS6 (11.0.4)</it_IT>
+		<ja_JP>Adobe After Effects CS6（11.0.4）のアップデート</ja_JP>
+		<ko_KR>Adobe After Effects CS6(11.0.4) 업데이트</ko_KR>
+	</DisplayName>
+	<Description default="en_US"><en_US>The After Effects CS6 (11.0.4) update fixes a problem on Windows 8.1 for the Spanish version, as well as addressing a cause of a warning message about GPU features. See this page for details: http://adobe.ly/AE_CS6_1104</en_US>
+		<de_DE>Das Update 11.0.4 für After Effects CS6 korrigiert ein Problem mit der spanischen Version, das unter Windows 8.1 auftritt. Außerdem wird die Ursache einer Warnmeldung bezüglich GPU-Funktionen behoben. Nähere Informationen finden Sie auf folgender Seite: http://adobe.ly/AE_CS6_1104</de_DE>
+		<es_ES>La actualización de After Effects CS6 (11.0.4) soluciona un problema de la versión española en Windows 8.1 y tratala causa de un mensaje de advertencia sobre las funciones de GPU. Para obtener más información, consulte esta página: http://adobe.ly/AE_CS6_1104</es_ES>
+		<es_MX>La actualización de After Effects CS6 (11.0.4) soluciona un problema de la versión española en Windows 8.1 y tratala causa de un mensaje de advertencia sobre las funciones de GPU. Para obtener más información, consulte esta página: http://adobe.ly/AE_CS6_1104</es_MX>
+		<fr_FR>La mise à jour After Effects CS6 (11.0.4) corrige un problème sous Windows 8.1 pour la version espagnole. Elle résout en outre l'une des causes d'un message d'avertissement lié aux fonctions GPU. Voir cette page pour plus de détails : http://adobe.ly/AE_CS6_1104</fr_FR>
+		<fr_CA>La mise à jour After Effects CS6 (11.0.4) corrige un problème sous Windows 8.1 pour la version espagnole. Elle résout en outre l'une des causes d'un message d'avertissement lié aux fonctions GPU. Voir cette page pour plus de détails : http://adobe.ly/AE_CS6_1104</fr_CA>
+		<fr_MA>La mise à jour After Effects CS6 (11.0.4) corrige un problème sous Windows 8.1 pour la version espagnole. Elle résout en outre l'une des causes d'un message d'avertissement lié aux fonctions GPU. Voir cette page pour plus de détails : http://adobe.ly/AE_CS6_1104</fr_MA>
+		<it_IT>Con l'aggiornamento After Effects CS6 (11.0.4) viene corretto un problema su Windows 8.1 per la versione spagnola e viene risolta la causa di un messaggio di avvertenza per le funzioni GPU. Ulteriori informazioni: http://adobe.ly/AE_CS6_1104</it_IT>
+		<ja_JP>After Effects CS6（11.0.4）のアップデートでは、スペイン語版の Windows 8.1 での問題を修正し、GPU 機能に関する警告メッセージの原因を解決しています。詳細については、次のページを参照してください：http://adobe.ly/AE_CS6_1104</ja_JP>
+		<ko_KR>The After Effects CS6 (11.0.4) 업데이트에서는 Windows 8.1 스페인어 버전의 문제를 해결했고 GPU 기능 관련 경고 메시지의 원인을 찾아 해결했습니다. 자세한 내용은 다음 페이지를 참조하십시오. http://adobe.ly/AE_CS6_1104</ko_KR>
+	</Description>
+	<AffectedChannels><ChannelID>AdobeAfterEffectsCS6-11</ChannelID>
+	</AffectedChannels>
+	<InstallFiles><File RIBSBased="1"><Name>setup.zip</Name>
+      <Type>1</Type>
+      <ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+      <Size>132724033</Size>
+      
+      
+      
+    </File>
+  </InstallFiles>
+	<NeedsReboot>false</NeedsReboot>
+
+  
+  
+  
+  
+  
+  
+  <UpdatePayloadID>{BC1D7B51-58F3-4887-A271-619DC56E8E03}</UpdatePayloadID>
+  <OwningPayloadID>{4817D846-700B-474E-A31B-80892B3E92E3}</OwningPayloadID>
+  <ConflictingProcesses><Process blocking="1" processType="Adobe">^[Aa][Dd][Oo][Bb][Ee] [Qq][Tt]32 [Ss][Ee][Rr][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+    <Process blocking="1" processType="Adobe">^[Ii][Mm][Pp][Oo][Rr][Tt][Ee][Rr][Rr][Ee][Dd][Ss][Ee][Rr][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+    <Process blocking="1" processType="Adobe">^[Aa][Dd][Oo][Bb][Ee] [Aa][Nn][Aa][Ll][Yy][Ss][Ii][Ss] [Ss][Ee][Rr][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+    <Process blocking="1" processType="Adobe">^[Aa][Ee][Rr][Ee][Nn][Dd][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+    <Process blocking="1" processType="Adobe">^[Gg][Pp][Uu][Ss][Nn][Ii][Ff][Ff][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+    <Process blocking="1" processType="Adobe">^[Aa][Dd][Oo][Bb][Ee][Qq][Tt][Ss][Ee][Rr][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+    <Process blocking="1" processType="Adobe">^[Ss][Aa] [Cc][Oo][Ll][Oo][Rr] [Ff][Ii][Nn][Ee][Ss][Ss][Ee] 3 [Uu][Ii]\.[Ee][Xx][Ee]</Process>
+    <Process blocking="1" processType="Adobe">^[Aa][Ff][Tt][Ee][Rr][Ff][Xx]\.[Ee][Xx][Ee]</Process>
+  </ConflictingProcesses>
+</Manifest>

@@ -1,0 +1,689 @@
+Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-07T00:18:04: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-07T00:18:05: <<< Adobe Updater Log End <<<
+
+
+2016-04-07T00:27:49: >>> Adobe Updater Log Begin >>>
+2016-04-07T00:27:49: Application Version: 6.0.0.67
+2016-04-07T00:27:49: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-07T00:27:49: cmdline option: -logLevel = 2
+2016-04-07T00:27:49: StartupUtility : Loaded in scheduled mode.
+2016-04-07T00:27:49: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-07T00:27:49: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-07T00:27:49: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-07T00:27:49: <<< Adobe Updater Log End <<<
+
+
+2016-04-07T02:59:11: >>> Adobe Updater Log Begin >>>
+2016-04-07T02:59:11: Application Version: 6.0.0.67
+2016-04-07T02:59:11: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-07T02:59:11: cmdline option: -logLevel = 2
+2016-04-07T02:59:11: StartupUtility : Loaded at startup/logon.
+2016-04-07T02:59:11: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-07T02:59:11: Scheduled check window has elapsed 
+2016-04-07T02:59:11: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-07T02:59:11: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-07T02:59:11: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-07T02:59:12: <<< Adobe Updater Log End <<<
+
+
+2016-04-07T04:23:24: >>> Adobe Updater Log Begin >>>
+2016-04-07T04:23:24: Application Version: 6.0.0.67
+2016-04-07T04:23:24: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-07T04:23:24: cmdline option: -logLevel = 2
+2016-04-07T04:23:24: StartupUtility : Loaded at startup/logon.
+2016-04-07T04:23:24: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-07T04:23:24: Scheduled check window has elapsed 
+2016-04-07T04:23:24: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-07T04:23:24: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-07T04:23:24: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-07T04:23:24: <<< Adobe Updater Log End <<<
+
+
+2016-04-07T06:11:44: >>> Adobe Updater Log Begin >>>
+2016-04-07T06:11:44: Application Version: 6.0.0.67
+2016-04-07T06:11:44: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-07T06:11:44: cmdline option: -logLevel = 2
+2016-04-07T06:11:44: StartupUtility : Loaded at startup/logon.
+2016-04-07T06:11:44: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-07T06:11:44: Scheduled check window has elapsed 
+2016-04-07T06:11:44: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-07T06:11:44: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-07T06:11:44: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-07T06:11:44: <<< Adobe Updater Log End <<<
+
+
+2016-04-08T01:00:26: >>> Adobe Updater Log Begin >>>
+2016-04-08T01:00:26: Application Version: 6.0.0.67
+2016-04-08T01:00:26: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-08T01:00:26: cmdline option: -logLevel = 2
+2016-04-08T01:00:26: StartupUtility : Loaded at startup/logon.
+2016-04-08T01:00:26: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-08T01:00:26: Scheduled check window has not yet elapsed 
+2016-04-08T01:00:26: StartupUtility : Window is NOT Elapsed.
+2016-04-08T01:00:26: <<< Adobe Updater Log End <<<
+
+
+2016-04-08T01:08:20: >>> Adobe Updater Log Begin >>>
+2016-04-08T01:08:20: Application Version: 6.0.0.67
+2016-04-08T01:08:20: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-08T01:08:20: cmdline option: -logLevel = 2
+2016-04-08T01:08:20: StartupUtility : Loaded in scheduled mode.
+2016-04-08T01:08:20: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-08T01:08:20: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-08T01:08:20: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-08T01:08:20: <<< Adobe Updater Log End <<<
+
+
+2016-04-08T03:57:47: >>> Adobe Updater Log Begin >>>
+2016-04-08T03:57:47: Application Version: 6.0.0.67
+2016-04-08T03:57:47: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-08T03:57:47: cmdline option: -logLevel = 2
+2016-04-08T03:57:47: StartupUtility : Loaded at startup/logon.
+2016-04-08T03:57:47: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-08T03:57:47: Scheduled check window has not yet elapsed 
+2016-04-08T03:57:47: StartupUtility : Window is NOT Elapsed.
+2016-04-08T03:57:47: <<< Adobe Updater Log End <<<
+
+
+2016-04-08T04:04:08: >>> Adobe Updater Log Begin >>>
+2016-04-08T04:04:08: Application Version: 6.0.0.67
+2016-04-08T04:04:08: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-08T04:04:08: cmdline option: -logLevel = 2
+2016-04-08T04:04:08: StartupUtility : Loaded at startup/logon.
+2016-04-08T04:04:08: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-08T04:04:08: Scheduled check window has not yet elapsed 
+2016-04-08T04:04:08: StartupUtility : Window is NOT Elapsed.
+2016-04-08T04:04:08: <<< Adobe Updater Log End <<<
+
+
+2016-04-08T06:11:14: >>> Adobe Updater Log Begin >>>
+2016-04-08T06:11:14: Application Version: 6.0.0.67
+2016-04-08T06:11:14: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-08T06:11:14: cmdline option: -logLevel = 2
+2016-04-08T06:11:14: StartupUtility : Loaded at startup/logon.
+2016-04-08T06:11:14: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-08T06:11:14: Scheduled check window has not yet elapsed 
+2016-04-08T06:11:14: StartupUtility : Window is NOT Elapsed.
+2016-04-08T06:11:14: <<< Adobe Updater Log End <<<
+
+
+2016-04-08T08:32:13: >>> Adobe Updater Log Begin >>>
+2016-04-08T08:32:13: Application Version: 6.0.0.67
+2016-04-08T08:32:13: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-08T08:32:13: cmdline option: -logLevel = 2
+2016-04-08T08:32:13: StartupUtility : Loaded at startup/logon.
+2016-04-08T08:32:13: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-08T08:32:13: Scheduled check window has not yet elapsed 
+2016-04-08T08:32:13: StartupUtility : Window is NOT Elapsed.
+2016-04-08T08:32:13: <<< Adobe Updater Log End <<<
+
+
+2016-04-08T08:32:48: >>> Adobe Updater Log Begin >>>
+2016-04-08T08:32:48: Application Version: 6.0.0.67
+2016-04-08T08:32:48: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-08T08:32:48: cmdline option: -logLevel = 2
+2016-04-08T08:32:48: StartupUtility : Loaded at startup/logon.
+2016-04-08T08:32:48: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-08T08:32:48: Scheduled check window has not yet elapsed 
+2016-04-08T08:32:48: StartupUtility : Window is NOT Elapsed.
+2016-04-08T08:32:48: <<< Adobe Updater Log End <<<
+
+
+2016-04-09T06:13:35: >>> Adobe Updater Log Begin >>>
+2016-04-09T06:13:35: Application Version: 6.0.0.67
+2016-04-09T06:13:35: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-09T06:13:35: cmdline option: -logLevel = 2
+2016-04-09T06:13:35: StartupUtility : Loaded at startup/logon.
+2016-04-09T06:13:35: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-09T06:13:35: Scheduled check window has elapsed 
+2016-04-09T06:13:35: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-09T06:13:35: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-09T06:13:35: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-09T06:13:36: <<< Adobe Updater Log End <<<
+
+
+2016-04-09T06:23:34: >>> Adobe Updater Log Begin >>>
+2016-04-09T06:23:34: Application Version: 6.0.0.67
+2016-04-09T06:23:34: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-09T06:23:34: cmdline option: -logLevel = 2
+2016-04-09T06:23:34: StartupUtility : Loaded in scheduled mode.
+2016-04-09T06:23:34: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-09T06:23:34: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-09T06:23:34: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-09T06:23:34: <<< Adobe Updater Log End <<<
+
+
+2016-04-09T08:04:31: >>> Adobe Updater Log Begin >>>
+2016-04-09T08:04:31: Application Version: 6.0.0.67
+2016-04-09T08:04:31: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-09T08:04:31: cmdline option: -logLevel = 2
+2016-04-09T08:04:31: StartupUtility : Loaded at startup/logon.
+2016-04-09T08:04:31: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-09T08:04:31: Scheduled check window has not yet elapsed 
+2016-04-09T08:04:31: StartupUtility : Window is NOT Elapsed.
+2016-04-09T08:04:31: <<< Adobe Updater Log End <<<
+
+
+2016-04-10T04:48:17: >>> Adobe Updater Log Begin >>>
+2016-04-10T04:48:17: Application Version: 6.0.0.67
+2016-04-10T04:48:17: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-10T04:48:17: cmdline option: -logLevel = 2
+2016-04-10T04:48:17: StartupUtility : Loaded at startup/logon.
+2016-04-10T04:48:18: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-10T04:48:18: Scheduled check window has not yet elapsed 
+2016-04-10T04:48:18: StartupUtility : Window is NOT Elapsed.
+2016-04-10T04:48:18: <<< Adobe Updater Log End <<<
+
+
+2016-04-11T00:16:17: >>> Adobe Updater Log Begin >>>
+2016-04-11T00:16:17: Application Version: 6.0.0.67
+2016-04-11T00:16:19: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-11T00:16:19: cmdline option: -logLevel = 2
+2016-04-11T00:16:19: StartupUtility : Loaded at startup/logon.
+2016-04-11T00:16:19: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-11T00:16:19: Scheduled check window has elapsed 
+2016-04-11T00:16:19: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-11T00:16:19: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-11T00:16:19: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-11T00:16:19: <<< Adobe Updater Log End <<<
+
+
+2016-04-11T00:26:08: >>> Adobe Updater Log Begin >>>
+2016-04-11T00:26:08: Application Version: 6.0.0.67
+2016-04-11T00:26:08: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-11T00:26:08: cmdline option: -logLevel = 2
+2016-04-11T00:26:08: StartupUtility : Loaded in scheduled mode.
+2016-04-11T00:26:08: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-11T00:26:08: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-11T00:26:08: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-11T00:26:08: <<< Adobe Updater Log End <<<
+
+
+2016-04-11T02:22:24: >>> Adobe Updater Log Begin >>>
+2016-04-11T02:22:24: Application Version: 6.0.0.67
+2016-04-11T02:22:24: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-11T02:22:24: cmdline option: -logLevel = 2
+2016-04-11T02:22:24: StartupUtility : Loaded at startup/logon.
+2016-04-11T02:22:24: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-11T02:22:24: Scheduled check window has not yet elapsed 
+2016-04-11T02:22:24: StartupUtility : Window is NOT Elapsed.
+2016-04-11T02:22:24: <<< Adobe Updater Log End <<<
+
+
+2016-04-11T04:06:14: >>> Adobe Updater Log Begin >>>
+2016-04-11T04:06:14: Application Version: 6.0.0.67
+2016-04-11T04:06:14: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-11T04:06:14: cmdline option: -logLevel = 2
+2016-04-11T04:06:14: StartupUtility : Loaded at startup/logon.
+2016-04-11T04:06:14: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-11T04:06:14: Scheduled check window has not yet elapsed 
+2016-04-11T04:06:14: StartupUtility : Window is NOT Elapsed.
+2016-04-11T04:06:14: <<< Adobe Updater Log End <<<
+
+
+2016-04-11T08:13:36: >>> Adobe Updater Log Begin >>>
+2016-04-11T08:13:36: Application Version: 6.0.0.67
+2016-04-11T08:13:36: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-11T08:13:36: cmdline option: -logLevel = 2
+2016-04-11T08:13:36: StartupUtility : Loaded at startup/logon.
+2016-04-11T08:13:36: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-11T08:13:36: Scheduled check window has not yet elapsed 
+2016-04-11T08:13:36: StartupUtility : Window is NOT Elapsed.
+2016-04-11T08:13:36: <<< Adobe Updater Log End <<<
+
+
+2016-04-11T10:29:10: >>> Adobe Updater Log Begin >>>
+2016-04-11T10:29:10: Application Version: 6.0.0.67
+2016-04-11T10:29:10: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-11T10:29:10: cmdline option: -logLevel = 2
+2016-04-11T10:29:10: StartupUtility : Loaded at startup/logon.
+2016-04-11T10:29:10: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-11T10:29:10: Scheduled check window has not yet elapsed 
+2016-04-11T10:29:10: StartupUtility : Window is NOT Elapsed.
+2016-04-11T10:29:10: <<< Adobe Updater Log End <<<
+
+
+2016-04-12T00:20:33: >>> Adobe Updater Log Begin >>>
+2016-04-12T00:20:33: Application Version: 6.0.0.67
+2016-04-12T00:20:33: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-12T00:20:33: cmdline option: -logLevel = 2
+2016-04-12T00:20:33: StartupUtility : Loaded at startup/logon.
+2016-04-12T00:20:33: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-12T00:20:33: Scheduled check window has not yet elapsed 
+2016-04-12T00:20:33: StartupUtility : Window is NOT Elapsed.
+2016-04-12T00:20:33: <<< Adobe Updater Log End <<<
+
+
+2016-04-12T00:30:29: >>> Adobe Updater Log Begin >>>
+2016-04-12T00:30:29: Application Version: 6.0.0.67
+2016-04-12T00:30:29: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-12T00:30:29: cmdline option: -logLevel = 2
+2016-04-12T00:30:29: StartupUtility : Loaded in scheduled mode.
+2016-04-12T00:30:29: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-12T00:30:29: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-12T00:30:29: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-12T00:30:29: <<< Adobe Updater Log End <<<
+
+
+2016-04-12T02:30:57: >>> Adobe Updater Log Begin >>>
+2016-04-12T02:30:57: Application Version: 6.0.0.67
+2016-04-12T02:30:57: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-12T02:30:57: cmdline option: -logLevel = 2
+2016-04-12T02:30:57: StartupUtility : Loaded at startup/logon.
+2016-04-12T02:30:57: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-12T02:30:57: Scheduled check window has not yet elapsed 
+2016-04-12T02:30:57: StartupUtility : Window is NOT Elapsed.
+2016-04-12T02:30:57: <<< Adobe Updater Log End <<<
+
+
+2016-04-12T06:12:46: >>> Adobe Updater Log Begin >>>
+2016-04-12T06:12:46: Application Version: 6.0.0.67
+2016-04-12T06:12:46: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-12T06:12:46: cmdline option: -logLevel = 2
+2016-04-12T06:12:46: StartupUtility : Loaded at startup/logon.
+2016-04-12T06:12:46: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-12T06:12:46: Scheduled check window has not yet elapsed 
+2016-04-12T06:12:46: StartupUtility : Window is NOT Elapsed.
+2016-04-12T06:12:46: <<< Adobe Updater Log End <<<
+
+
+2016-04-12T08:23:57: >>> Adobe Updater Log Begin >>>
+2016-04-12T08:23:57: Application Version: 6.0.0.67
+2016-04-12T08:23:57: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-12T08:23:57: cmdline option: -logLevel = 2
+2016-04-12T08:23:57: StartupUtility : Loaded at startup/logon.
+2016-04-12T08:23:57: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-12T08:23:57: Scheduled check window has not yet elapsed 
+2016-04-12T08:23:57: StartupUtility : Window is NOT Elapsed.
+2016-04-12T08:23:57: <<< Adobe Updater Log End <<<
+
+
+2016-04-12T23:48:14: >>> Adobe Updater Log Begin >>>
+2016-04-12T23:48:14: Application Version: 6.0.0.67
+2016-04-12T23:48:14: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-12T23:48:14: cmdline option: -logLevel = 2
+2016-04-12T23:48:14: StartupUtility : Loaded at startup/logon.
+2016-04-12T23:48:14: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-12T23:48:14: Scheduled check window has not yet elapsed 
+2016-04-12T23:48:14: StartupUtility : Window is NOT Elapsed.
+2016-04-12T23:48:14: <<< Adobe Updater Log End <<<
+
+
+2016-04-12T23:58:10: >>> Adobe Updater Log Begin >>>
+2016-04-12T23:58:10: Application Version: 6.0.0.67
+2016-04-12T23:58:10: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-12T23:58:10: cmdline option: -logLevel = 2
+2016-04-12T23:58:10: StartupUtility : Loaded in scheduled mode.
+2016-04-12T23:58:10: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-12T23:58:10: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-12T23:58:10: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-12T23:58:11: <<< Adobe Updater Log End <<<
+
+
+2016-04-13T04:06:43: >>> Adobe Updater Log Begin >>>
+2016-04-13T04:06:43: Application Version: 6.0.0.67
+2016-04-13T04:06:43: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-13T04:06:43: cmdline option: -logLevel = 2
+2016-04-13T04:06:43: StartupUtility : Loaded at startup/logon.
+2016-04-13T04:06:43: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-13T04:06:43: Scheduled check window has not yet elapsed 
+2016-04-13T04:06:43: StartupUtility : Window is NOT Elapsed.
+2016-04-13T04:06:43: <<< Adobe Updater Log End <<<
+
+
+2016-04-13T06:52:36: >>> Adobe Updater Log Begin >>>
+2016-04-13T06:52:36: Application Version: 6.0.0.67
+2016-04-13T06:52:36: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-13T06:52:36: cmdline option: -logLevel = 2
+2016-04-13T06:52:36: StartupUtility : Loaded at startup/logon.
+2016-04-13T06:52:36: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-13T06:52:36: Scheduled check window has not yet elapsed 
+2016-04-13T06:52:36: StartupUtility : Window is NOT Elapsed.
+2016-04-13T06:52:36: <<< Adobe Updater Log End <<<
+
+
+2016-04-13T12:01:50: >>> Adobe Updater Log Begin >>>
+2016-04-13T12:01:50: Application Version: 6.0.0.67
+2016-04-13T12:01:50: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-13T12:01:50: cmdline option: -logLevel = 2
+2016-04-13T12:01:50: StartupUtility : Loaded at startup/logon.
+2016-04-13T12:01:50: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-13T12:01:50: Scheduled check window has not yet elapsed 
+2016-04-13T12:01:50: StartupUtility : Window is NOT Elapsed.
+2016-04-13T12:01:50: <<< Adobe Updater Log End <<<
+
+
+2016-04-14T00:20:40: >>> Adobe Updater Log Begin >>>
+2016-04-14T00:20:40: Application Version: 6.0.0.67
+2016-04-14T00:20:40: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-14T00:20:40: cmdline option: -logLevel = 2
+2016-04-14T00:20:40: StartupUtility : Loaded in scheduled mode.
+2016-04-14T00:20:40: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-14T00:20:40: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-14T00:20:40: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-14T00:20:40: <<< Adobe Updater Log End <<<
+
+
+2016-04-14T02:16:42: >>> Adobe Updater Log Begin >>>
+2016-04-14T02:16:42: Application Version: 6.0.0.67
+2016-04-14T02:16:42: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-14T02:16:42: cmdline option: -logLevel = 2
+2016-04-14T02:16:42: StartupUtility : Loaded at startup/logon.
+2016-04-14T02:16:42: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-14T02:16:42: Scheduled check window has elapsed 
+2016-04-14T02:16:42: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-14T02:16:42: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-14T02:16:42: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-14T02:16:43: <<< Adobe Updater Log End <<<
+
+
+2016-04-14T04:17:51: >>> Adobe Updater Log Begin >>>
+2016-04-14T04:17:51: Application Version: 6.0.0.67
+2016-04-14T04:17:51: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-14T04:17:51: cmdline option: -logLevel = 2
+2016-04-14T04:17:51: StartupUtility : Loaded at startup/logon.
+2016-04-14T04:17:51: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-14T04:17:51: Scheduled check window has elapsed 
+2016-04-14T04:17:51: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-14T04:17:51: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-14T04:17:51: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-14T04:17:51: <<< Adobe Updater Log End <<<
+
+
+2016-04-14T06:16:30: >>> Adobe Updater Log Begin >>>
+2016-04-14T06:16:30: Application Version: 6.0.0.67
+2016-04-14T06:16:30: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-14T06:16:30: cmdline option: -logLevel = 2
+2016-04-14T06:16:30: StartupUtility : Loaded at startup/logon.
+2016-04-14T06:16:30: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-14T06:16:30: Scheduled check window has elapsed 
+2016-04-14T06:16:30: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-14T06:16:30: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-14T06:16:30: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-14T06:16:31: <<< Adobe Updater Log End <<<
+
+
+2016-04-14T08:02:38: >>> Adobe Updater Log Begin >>>
+2016-04-14T08:02:38: Application Version: 6.0.0.67
+2016-04-14T08:02:38: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-14T08:02:38: cmdline option: -logLevel = 2
+2016-04-14T08:02:38: StartupUtility : Loaded at startup/logon.
+2016-04-14T08:02:38: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-14T08:02:38: Scheduled check window has elapsed 
+2016-04-14T08:02:38: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-14T08:02:38: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-14T08:02:38: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-14T08:02:39: <<< Adobe Updater Log End <<<
+
+
+2016-04-15T01:59:10: >>> Adobe Updater Log Begin >>>
+2016-04-15T01:59:10: Application Version: 6.0.0.67
+2016-04-15T01:59:10: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-15T01:59:10: cmdline option: -logLevel = 2
+2016-04-15T01:59:10: StartupUtility : Loaded at startup/logon.
+2016-04-15T01:59:10: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-15T01:59:10: Scheduled check window has elapsed 
+2016-04-15T01:59:10: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-15T01:59:10: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-15T01:59:10: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-15T01:59:11: <<< Adobe Updater Log End <<<
+
+
+2016-04-15T02:09:08: >>> Adobe Updater Log Begin >>>
+2016-04-15T02:09:08: Application Version: 6.0.0.67
+2016-04-15T02:09:08: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-15T02:09:08: cmdline option: -logLevel = 2
+2016-04-15T02:09:08: StartupUtility : Loaded in scheduled mode.
+2016-04-15T02:09:08: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-15T02:09:08: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-15T02:09:08: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-15T02:09:08: <<< Adobe Updater Log End <<<
+
+
+2016-04-15T06:17:11: >>> Adobe Updater Log Begin >>>
+2016-04-15T06:17:11: Application Version: 6.0.0.67
+2016-04-15T06:17:11: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-15T06:17:11: cmdline option: -logLevel = 2
+2016-04-15T06:17:11: StartupUtility : Loaded at startup/logon.
+2016-04-15T06:17:11: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-15T06:17:11: Scheduled check window has elapsed 
+2016-04-15T06:17:11: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-15T06:17:11: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-15T06:17:11: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-15T06:17:11: <<< Adobe Updater Log End <<<
+
+
+2016-04-15T08:41:04: >>> Adobe Updater Log Begin >>>
+2016-04-15T08:41:04: Application Version: 6.0.0.67
+2016-04-15T08:41:04: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-15T08:41:04: cmdline option: -logLevel = 2
+2016-04-15T08:41:04: StartupUtility : Loaded at startup/logon.
+2016-04-15T08:41:04: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-15T08:41:04: Scheduled check window has not yet elapsed 
+2016-04-15T08:41:04: StartupUtility : Window is NOT Elapsed.
+2016-04-15T08:41:04: <<< Adobe Updater Log End <<<
+
+
+2016-04-16T06:17:48: >>> Adobe Updater Log Begin >>>
+2016-04-16T06:17:48: Application Version: 6.0.0.67
+2016-04-16T06:17:48: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-16T06:17:48: cmdline option: -logLevel = 2
+2016-04-16T06:17:48: StartupUtility : Loaded at startup/logon.
+2016-04-16T06:17:48: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-16T06:17:48: Scheduled check window has not yet elapsed 
+2016-04-16T06:17:48: StartupUtility : Window is NOT Elapsed.
+2016-04-16T06:17:48: <<< Adobe Updater Log End <<<
+
+
+2016-04-16T06:27:39: >>> Adobe Updater Log Begin >>>
+2016-04-16T06:27:39: Application Version: 6.0.0.67
+2016-04-16T06:27:39: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-16T06:27:39: cmdline option: -logLevel = 2
+2016-04-16T06:27:39: StartupUtility : Loaded in scheduled mode.
+2016-04-16T06:27:39: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-16T06:27:39: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-16T06:27:39: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-16T06:27:39: <<< Adobe Updater Log End <<<
+
+
+2016-04-17T04:36:35: >>> Adobe Updater Log Begin >>>
+2016-04-17T04:36:35: Application Version: 6.0.0.67
+2016-04-17T04:36:35: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-17T04:36:35: cmdline option: -logLevel = 2
+2016-04-17T04:36:35: StartupUtility : Loaded at startup/logon.
+2016-04-17T04:36:35: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-17T04:36:35: Scheduled check window has not yet elapsed 
+2016-04-17T04:36:35: StartupUtility : Window is NOT Elapsed.
+2016-04-17T04:36:35: <<< Adobe Updater Log End <<<
+
+
+2016-04-17T04:46:27: >>> Adobe Updater Log Begin >>>
+2016-04-17T04:46:27: Application Version: 6.0.0.67
+2016-04-17T04:46:27: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-17T04:46:27: cmdline option: -logLevel = 2
+2016-04-17T04:46:27: StartupUtility : Loaded in scheduled mode.
+2016-04-17T04:46:27: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-17T04:46:27: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-17T04:46:27: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-17T04:46:28: <<< Adobe Updater Log End <<<
+
+
+2016-04-18T00:18:43: >>> Adobe Updater Log Begin >>>
+2016-04-18T00:18:43: Application Version: 6.0.0.67
+2016-04-18T00:18:43: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-18T00:18:43: cmdline option: -logLevel = 2
+2016-04-18T00:18:43: StartupUtility : Loaded at startup/logon.
+2016-04-18T00:18:43: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-18T00:18:43: Scheduled check window has not yet elapsed 
+2016-04-18T00:18:43: StartupUtility : Window is NOT Elapsed.
+2016-04-18T00:18:43: <<< Adobe Updater Log End <<<
+
+
+2016-04-18T00:28:34: >>> Adobe Updater Log Begin >>>
+2016-04-18T00:28:34: Application Version: 6.0.0.67
+2016-04-18T00:28:34: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-18T00:28:34: cmdline option: -logLevel = 2
+2016-04-18T00:28:34: StartupUtility : Loaded in scheduled mode.
+2016-04-18T00:28:34: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-18T00:28:34: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-18T00:28:34: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-18T00:28:34: <<< Adobe Updater Log End <<<
+
+
+2016-04-18T04:09:31: >>> Adobe Updater Log Begin >>>
+2016-04-18T04:09:31: Application Version: 6.0.0.67
+2016-04-18T04:09:31: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-18T04:09:31: cmdline option: -logLevel = 2
+2016-04-18T04:09:31: StartupUtility : Loaded at startup/logon.
+2016-04-18T04:09:31: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-18T04:09:31: Scheduled check window has not yet elapsed 
+2016-04-18T04:09:31: StartupUtility : Window is NOT Elapsed.
+2016-04-18T04:09:31: <<< Adobe Updater Log End <<<
+
+
+2016-04-18T06:09:22: >>> Adobe Updater Log Begin >>>
+2016-04-18T06:09:22: Application Version: 6.0.0.67
+2016-04-18T06:09:22: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-18T06:09:22: cmdline option: -logLevel = 2
+2016-04-18T06:09:22: StartupUtility : Loaded at startup/logon.
+2016-04-18T06:09:22: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-18T06:09:22: Scheduled check window has not yet elapsed 
+2016-04-18T06:09:22: StartupUtility : Window is NOT Elapsed.
+2016-04-18T06:09:22: <<< Adobe Updater Log End <<<
+
+
+2016-04-19T00:09:15: >>> Adobe Updater Log Begin >>>
+2016-04-19T00:09:15: Application Version: 6.0.0.67
+2016-04-19T00:09:15: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-19T00:09:15: cmdline option: -logLevel = 2
+2016-04-19T00:09:15: StartupUtility : Loaded at startup/logon.
+2016-04-19T00:09:15: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-19T00:09:15: Scheduled check window has not yet elapsed 
+2016-04-19T00:09:15: StartupUtility : Window is NOT Elapsed.
+2016-04-19T00:09:15: <<< Adobe Updater Log End <<<
+
+
+2016-04-19T00:19:10: >>> Adobe Updater Log Begin >>>
+2016-04-19T00:19:10: Application Version: 6.0.0.67
+2016-04-19T00:19:10: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-19T00:19:10: cmdline option: -logLevel = 2
+2016-04-19T00:19:10: StartupUtility : Loaded in scheduled mode.
+2016-04-19T00:19:10: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-19T00:19:10: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-19T00:19:10: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-19T00:19:11: <<< Adobe Updater Log End <<<
+
+
+2016-04-19T08:12:35: >>> Adobe Updater Log Begin >>>
+2016-04-19T08:12:35: Application Version: 6.0.0.67
+2016-04-19T08:12:35: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-19T08:12:35: cmdline option: -logLevel = 2
+2016-04-19T08:12:35: StartupUtility : Loaded at startup/logon.
+2016-04-19T08:12:35: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-19T08:12:35: Scheduled check window has not yet elapsed 
+2016-04-19T08:12:35: StartupUtility : Window is NOT Elapsed.
+2016-04-19T08:12:35: <<< Adobe Updater Log End <<<
+
+
+2016-04-19T23:53:30: >>> Adobe Updater Log Begin >>>
+2016-04-19T23:53:30: Application Version: 6.0.0.67
+2016-04-19T23:53:30: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-19T23:53:30: cmdline option: -logLevel = 2
+2016-04-19T23:53:30: StartupUtility : Loaded at startup/logon.
+2016-04-19T23:53:30: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-19T23:53:30: Scheduled check window has not yet elapsed 
+2016-04-19T23:53:30: StartupUtility : Window is NOT Elapsed.
+2016-04-19T23:53:30: <<< Adobe Updater Log End <<<
+
+
+2016-04-20T00:03:18: >>> Adobe Updater Log Begin >>>
+2016-04-20T00:03:18: Application Version: 6.0.0.67
+2016-04-20T00:03:18: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-20T00:03:18: cmdline option: -logLevel = 2
+2016-04-20T00:03:18: StartupUtility : Loaded in scheduled mode.
+2016-04-20T00:03:18: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-20T00:03:18: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-20T00:03:18: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-20T00:03:44: <<< Adobe Updater Log End <<<
+
+
+2016-04-20T04:09:12: >>> Adobe Updater Log Begin >>>
+2016-04-20T04:09:12: Application Version: 6.0.0.67
+2016-04-20T04:09:12: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-20T04:09:12: cmdline option: -logLevel = 2
+2016-04-20T04:09:12: StartupUtility : Loaded at startup/logon.
+2016-04-20T04:09:12: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-20T04:09:12: Scheduled check window has not yet elapsed 
+2016-04-20T04:09:12: StartupUtility : Window is NOT Elapsed.
+2016-04-20T04:09:12: <<< Adobe Updater Log End <<<
+
+
+2016-04-20T06:11:38: >>> Adobe Updater Log Begin >>>
+2016-04-20T06:11:38: Application Version: 6.0.0.67
+2016-04-20T06:11:38: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-20T06:11:38: cmdline option: -logLevel = 2
+2016-04-20T06:11:38: StartupUtility : Loaded at startup/logon.
+2016-04-20T06:11:38: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-20T06:11:38: Scheduled check window has not yet elapsed 
+2016-04-20T06:11:38: StartupUtility : Window is NOT Elapsed.
+2016-04-20T06:11:38: <<< Adobe Updater Log End <<<
+
+
+2016-04-20T19:00:00: >>> Adobe Updater Log Begin >>>
+2016-04-20T19:00:00: Application Version: 6.0.0.67
+2016-04-20T19:00:00: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-20T19:00:00: cmdline option: -logLevel = 2
+2016-04-20T19:00:00: StartupUtility : Loaded in scheduled mode.
+2016-04-20T19:00:00: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-20T19:00:00: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-20T19:00:00: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-20T19:00:00: <<< Adobe Updater Log End <<<
+
+
+2016-04-21T08:15:11: >>> Adobe Updater Log Begin >>>
+2016-04-21T08:15:11: Application Version: 6.0.0.67
+2016-04-21T08:15:11: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-21T08:15:11: cmdline option: -logLevel = 2
+2016-04-21T08:15:11: StartupUtility : Loaded at startup/logon.
+2016-04-21T08:15:11: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-21T08:15:11: Scheduled check window has not yet elapsed 
+2016-04-21T08:15:11: StartupUtility : Window is NOT Elapsed.
+2016-04-21T08:15:11: <<< Adobe Updater Log End <<<
+
+
+2016-04-22T06:11:54: >>> Adobe Updater Log Begin >>>
+2016-04-22T06:11:54: Application Version: 6.0.0.67
+2016-04-22T06:11:54: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-22T06:11:54: cmdline option: -logLevel = 2
+2016-04-22T06:11:54: StartupUtility : Loaded at startup/logon.
+2016-04-22T06:11:54: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-22T06:11:54: Scheduled check window has elapsed 
+2016-04-22T06:11:54: StartupUtility : Window is Elapsed and going to launch PDApp.
+2016-04-22T06:11:54: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-22T06:11:54: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-22T06:11:55: <<< Adobe Updater Log End <<<
+
+
+2016-04-22T06:21:39: >>> Adobe Updater Log Begin >>>
+2016-04-22T06:21:39: Application Version: 6.0.0.67
+2016-04-22T06:21:39: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-22T06:21:39: cmdline option: -logLevel = 2
+2016-04-22T06:21:39: StartupUtility : Loaded in scheduled mode.
+2016-04-22T06:21:39: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-22T06:21:39: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2016-04-22T06:21:39: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2016-04-22T06:21:39: <<< Adobe Updater Log End <<<
+
+
+2016-04-22T08:31:54: >>> Adobe Updater Log Begin >>>
+2016-04-22T08:31:54: Application Version: 6.0.0.67
+2016-04-22T08:31:54: cmdline option: -logFile = C:\Users\SB-604-18\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2016-04-22T08:31:54: cmdline option: -logLevel = 2
+2016-04-22T08:31:54: StartupUtility : Loaded at startup/logon.
+2016-04-22T08:31:54: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2016-04-22T08:31:54: Scheduled check window has not yet elapsed 
+2016-04-22T08:31:54: StartupUtility : Window is NOT Elapsed.
+2016-04-22T08:31:54: <<< Adobe Updater Log End <<<
+
+
